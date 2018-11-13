@@ -1,6 +1,6 @@
 INSTALLATION
 
-go get github.com/gostores/inflect
+go get github.com/govenue/inflect
 
 PACKAGE
 
